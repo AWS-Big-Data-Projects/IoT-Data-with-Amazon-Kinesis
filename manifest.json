@@ -1,0 +1,9 @@
+{ 
+    "fileLocations": [                                                    
+              {"URIPrefixes": ["https://s3.amazonaws.com/<YOUR_BUCKET_NAME>/data/<YEAR>/<MONTH>/<DATE>/<HOUR>/"]}
+     ],
+     "globalUploadSettings": { 
+     "format": "CSV",  
+     "delimiter": ","
+    }
+}
