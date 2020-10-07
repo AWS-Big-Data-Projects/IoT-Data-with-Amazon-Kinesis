@@ -2,7 +2,6 @@
 
 Build a Visualization and Monitoring Dashboard for IoT Data with Amazon Kinesis Analytics and Amazon QuickSight
 
-
 ![image](https://user-images.githubusercontent.com/48589838/77183351-357a6680-6af4-11ea-92a6-8f86db978554.png)
 
 Implementation
