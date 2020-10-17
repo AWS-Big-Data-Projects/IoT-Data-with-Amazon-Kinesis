@@ -1,7 +1,7 @@
 # Copyright 2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 # SPDX-License-Identifier: MIT-0
     
-    
+  
 # Script to generate simulated IoT device parameters data
 import json
 import random
